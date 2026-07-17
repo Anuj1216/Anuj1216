@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherwinbritto7/sherwinbritto7/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherwinbritto7/sherwinbritto7/main/light.svg">
-  <img alt="Sherwin Britto — Web Developer & React Specialist" src="https://raw.githubusercontent.com/sherwinbritto7/sherwinbritto7/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anuj1216/Anuj1216/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anuj1216/Anuj1216/main/light.svg">
+  <img alt="Sherwin Britto — Web Developer & React Specialist" src="https://raw.githubusercontent.com/Anuj1216/Anuj1216/main/dark.svg">
 </picture>
 
 </div>
