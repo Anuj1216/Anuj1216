@@ -53,7 +53,7 @@ INFO = [
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
     ("Web",      "acharyaanuj.com.np", "accent"),
-    ("GitHub",   "github.com/Anuj1216", "accent"),
+    ("LeetCode",      "leetcode.com/anujacharya", "accent"),
     ("LinkedIn", "linkedin.com/in/anuj-a-3999232a4/", "accent"),
     ("Mail",     "acharyaanuj45@gmail.com", "accent"),
 ]
@@ -240,7 +240,7 @@ def render(theme_name, colors, stats, ist_now):
         f'<text x="{ART_X}" y="{fy}" class="row" style="animation-delay:{delay+0.1:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
-        f'<tspan class="val" dx="8"> Web Developer / React Specialist </tspan>'
+        f'<tspan class="val" dx="8"> Web Developer / Java FullStack </tspan>'
         f'<tspan class="cur" dx="8">█</tspan></text>'
     )
     parts.append(
